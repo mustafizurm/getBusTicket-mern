@@ -15,7 +15,7 @@ const Form = () => {
                 <input type="date" placeholder='From..' className='p-[7px] w-[100%] outline-red-200 border border-gray-300 text-gray-400 ' />
                 {/* <i className="fa-solid fa-location-dot text-gray-400 absolute top-1 md:top-3 right-4"></i> */}
             </label>
-            <button className='bg-red-600 py-[6px] px-[20px] text-white rounded cursor-pointer'>Search</button>
+            <button className='bg-red-400 py-[6px] px-[20px] text-white rounded cursor-pointer'>Search</button>
         </form>
     )
 }
